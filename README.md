@@ -12,8 +12,8 @@
 
 <div>
 <a href="https://github.com/mluanax">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mluanax&amp;show_icons=true&amp;theme=white&amp;include_all_commits=true&amp;count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluanax&amp;layout=compact&amp;langs_count=7&amp;theme=white" />
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=mluanax&amp;show_icons=true&amp;theme=white&amp;include_all_commits=true&amp;count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluanax&amp;layout=compact&amp;langs_count=7&amp;theme=white" />
 </div>
   
   <div style="display: inline_block"><br>
