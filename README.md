@@ -1,7 +1,7 @@
 ### Olá eu sou a Luana 👋
 
-- 🔭 Estou atualmente trabalhando na área administrativa
-- 🌱 Estou estudando Python e Salesforce na plataforma https://trailblazer.me/id/mluana
+- 🔭 Estou atualmente trabalhando como dev em Salesforce
+- 🌱 Estou estudando para tirar minha primeira certificacao de App Builder https://trailblazer.me/id/mluana
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Estou animada para colocar as coisas que criei aqui
 
