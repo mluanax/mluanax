@@ -1,6 +1,6 @@
 ### Olá eu sou a Luana 👋
 
-- 🔭 Estou atualmente trabalhando Desenvolvedora Salesforce na IBM
+- 🔭 Estou atualmente trabalhando como QA Tester Salesforce na IBM
 - 🌱 Estou estudando para tirar minha primeira certificacao de App Builder https://trailblazer.me/id/mluana
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Estou animada para colocar as coisas que criei aqui
